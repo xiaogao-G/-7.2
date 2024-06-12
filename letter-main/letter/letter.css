@@ -23,7 +23,7 @@ background-image: linear-gradient(0deg, #d9afd9 0%, #97d9e1 100%);
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    font-size: 2.5em;
+    font-size: 2em;
     font-family: '楷体';
     position: relative;
     /* 使盒子具备透视效果 */
