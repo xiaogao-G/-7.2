@@ -1,16 +1,16 @@
 body {
   margin: 0;
   padding: 0;
-  background: #fff;
+  background: #ffe;
   font-size: 14px;
   font-family: "寰蒋闆呴粦", "瀹嬩綋", sans-serif;
   color: #231f20;
   overflow: auto;
 }
-a {
-  color: #000;
-  font-size: 18px;
-  margin-left: 150px;
+.a {
+  color: red;
+  font-size: 19px;
+  margin-left: 80px;
 }
 #main {
   width: 100%;
@@ -21,7 +21,7 @@ a {
   width: 1100px;
   height: 680px;
   /* margin-top: 10px; */
-  margin-top: 35% !important;
+  margin-top: 28% !important;
 }
 #text {
   /* width: 450px; */
@@ -32,7 +32,7 @@ a {
 }
 #code {
   display: none;
-  font-size: 18px;
+  font-size: 22px;
 }
 #clock-box {
   position: absolute;
