@@ -9,8 +9,8 @@ body {
 }
 .a {
   color: red;
-  font-size: 19px;
-  margin-left: 80px;
+  font-size: 22px;
+  margin-left: 60px;
 }
 #main {
   width: 100%;
@@ -26,13 +26,13 @@ body {
 #text {
   /* width: 450px; */
   height: 425px;
-  left: 60px;
+  left: 80px;
   top: 50px;
   position: absolute;
 }
 #code {
   display: none;
-  font-size: 22px;
+  font-size: 20px;
 }
 #clock-box {
   position: absolute;
